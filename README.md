@@ -45,24 +45,3 @@ The current AI implementation uses:
 - Heuristic evaluation functions
 
 The AI does not currently implement machine learning or adaptive behavior learning.
-
-## Future Scope
-
-Potential future enhancements include:
-
-- Adaptive AI capable of learning player behavior
-- Machine learning-based opponent strategies
-- Additional character classes
-- Multiplayer support
-- New abilities and combat mechanics
-- Save and load game functionality
-- Expanded maps and game modes
-- Difficulty scaling based on player performance
-
-## Project Status
-
-Work in Progress
-
-## Author
-
-Saksham Sharma
